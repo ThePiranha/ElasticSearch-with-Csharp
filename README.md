@@ -70,9 +70,7 @@ Download NEST package using the below command and then run the program. You can 
 
 
 ```
-#!c#
-
-PM> Install-Package NEST
+<code>PM> Install-Package NEST</code>
 ```
 
 # Sample Data
